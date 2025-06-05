@@ -1,0 +1,235 @@
+.page{
+margin: 0;
+background-color: brown;
+width: 1440px;
+height: 10300px;
+}
+.header{
+background-color: #F7EDE8;
+width: 1440px;
+height: 1448px;
+}
+.header__navigation{
+    position: absolute;
+width: 1160px;
+height: 74px;
+top: 24px;
+left: 140px;
+}
+.header__navigation__picture{
+width: 74px;
+height: 74px;
+top: 24px;
+left: 140px;
+}
+.header__navigation__links{
+position: absolute;
+width: 315px;
+height: 26px;
+top: 25px;
+left: 196px;
+}
+.header__navigation__subtitle{
+display: flex;
+list-style: none;
+gap: 60px;
+margin: 0;
+padding: 0;
+font-family: Montserrat Alternates;
+font-weight: 700;
+font-size: 16px;
+line-height: 160%;
+letter-spacing: 0%;
+color: black;
+top: 2px;
+position: absolute;
+}
+.header__navigation__buttons{
+display: flex;
+position: absolute;
+width: 344px;
+height: 41px;
+top: 15px;
+left: 816px;
+gap: 20px;
+}
+.header__navigation__buttons__first-button{
+width: 188px;
+height: 41px;
+border-radius: 8px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+border-width: 2px;
+border: 2px solid #000000;
+font-family: Montserrat Alternates;
+font-weight: 700px;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.header__navigation__buttons__second-button{
+width: 136px;
+height: 41px;
+border-radius: 8px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+box-shadow: 3px 3px 0px 0px #00000040;
+font-family: Montserrat Alternates;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+background-color: #000000;
+}
+.header__title{
+display: flex;
+flex-direction: column;
+position: absolute;
+width: 513px;
+height: 192px;
+top: 162px;
+left: 464px;
+}
+.header__main__title__daily{
+    font-family: Montserrat Alternates;
+font-weight: 700;
+font-size: 89px;
+line-height: 100%;
+letter-spacing: -4%;
+text-align: center;
+margin: 0;
+}
+.header__main__title__podcast{
+font-family: Montserrat Alternates;
+font-weight: 700;
+font-size: 96px;
+line-height: 100%;
+letter-spacing: -4%;
+text-align: center;
+margin: 0;
+color: #CD4631;
+}
+.header__subtitle{
+position: absolute;
+width: 374px;
+height: 52px;
+top: 394px;
+left: 533px;
+}
+.header__subtitle__main{
+    font-family: Montserrat Alternates;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+letter-spacing: 0%;
+text-align: center;
+margin: 0;
+color: #4D4D4D;
+}
+.header__button__subscribe{
+    position: absolute;
+width: 184px;
+height: 65px;
+top: 506px;
+left: 628px;
+border-radius: 8px;
+padding-top: 24px;
+padding-right: 48px;
+padding-bottom: 24px;
+padding-left: 48px;
+box-shadow: 6px 6px 0px 0px #00000040;
+background-color: #000000;
+color: white;
+font-family: Montserrat Alternates;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.header__pictures{
+display: flex;
+position: absolute;
+width: 1945px;
+height: 373px;
+top: 691px;
+gap: 20px;
+}
+.header__company{
+position: absolute;
+width: 1160px;
+height: 124px;
+top: 1184px;
+left: 140px;
+gap: 20px;
+border-top: 1.5px solid #4D4D4D;
+border-bottom: 1.5px solid #4D4D4D
+}
+.header__company__by{
+position: absolute;    
+width: 1160px;
+height: 84px;
+top: 20px;
+}
+.header__company__supported{
+font-family: Montserrat Alternates;
+font-weight: 700;
+font-size: 22.65px;
+line-height: 140%;
+letter-spacing: -2%;
+}
+.header__companyes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+position: absolute;
+width: 865px;
+height: 84px;
+gap: 20px;
+left: 295px;
+}
+.header__company__spotify{
+width: 128px;
+height: 34px;
+}
+.header__company__google{
+width: 198px;
+height: 36px;
+}
+.header__company__youtube{
+width: 124px;
+height: 28px;
+}
+.header__rotation{
+position: absolute;
+width: 150px;
+height: 150px;
+top: 1374px;
+left: 699px;
+}
+.header__img__left{
+position: absolute;
+width: 629.5654296875px;
+height: 592.0117797851562px;
+top: 150px;
+}
+.header__img__right{
+position: absolute;
+width: 155.300048828125px;
+height: 216.077392578125px;
+top: 235px;
+left: 1225px;
+}
+.header__img__star{
+position: absolute;
+width: 64px;
+height: 64px;
+top: 350.61px;
+left: 262px;
+border-radius: 2px;
+}
